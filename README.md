@@ -5,7 +5,7 @@ The repository contains Deep Learning Module built from scratch for prediction o
 ```git 
 # for using the module 
 # clone this repository 
-git clone https://github.com/MkshSahani/deep_learning 
+git clone https://github.com/anshulg954/Deep-Learning-Module
 ```
 
 ### Adding the neccessary files, 
